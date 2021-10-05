@@ -104,6 +104,11 @@ input:focus, select:focus, select, input.form-control:focus {
 	margin-top: 32px !important;
 }
 /*bordes*/
+
+.mtop8{
+	margin-top: 8px;
+}
+
 .caja1{
 	border: solid red 5px;
 }
@@ -135,4 +140,30 @@ input:focus, select:focus, select, input.form-control:focus {
 	border: solid red 10px;
 	background-color: pink;
 	border-radius: 4px;
+}
+
+
+/*colores*/
+.ejemplo1{
+	background-color: cyan;
+}
+
+.ejemplo2{
+	background-color: #f253f4
+}
+
+.ejemplo3{
+	background-color: rgb(77, 20, 255);
+}
+
+.ejemplo4{
+	background-color: rgba(0, 0, 0, 0.3);
+}
+
+.ejemplo5{
+	background-color: hsl(80, 230%, 50%);
+}
+
+.ejemplo6{
+	background-color: hsla(20, 100%, 50%, 0.5);
 }
