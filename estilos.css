@@ -103,3 +103,36 @@ input:focus, select:focus, select, input.form-control:focus {
 .pie-pagina h4{
 	margin-top: 32px !important;
 }
+/*bordes*/
+.caja1{
+	border: solid red 5px;
+}
+
+.caja2{
+	border: double #56492d 5px;
+}
+
+.caja3{
+	border: dotted #2f56a1 5px;
+}
+
+.caja4{
+	border: dashed #67ff21 5px;
+}
+
+.caja5{
+	border: inset #ad56b1 5px;
+}
+
+.caja6{
+	border-top: dashed red 5px;
+	border-left: dotted green 5px;
+	border-right: solid blue 5px;
+	border-bottom: double yellow 5px;
+}
+
+.caja7{
+	border: solid red 10px;
+	background-color: pink;
+	border-radius: 4px;
+}
